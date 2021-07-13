@@ -1,3 +1,9 @@
 rencana :
 belajar frondEnd : HTML, CSS, JS
 belajar VCS : Git and github
+
+belajar framework: 
+  JS : React.js dan Angular
+  CSS: Bootstrap
+  
+  
