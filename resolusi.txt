@@ -3,7 +3,7 @@ belajar frondEnd : HTML, CSS, JS
 belajar VCS : Git and github
 
 belajar framework: 
-  JS : React.js dan Angular
+  JS : React.js
   CSS: Bootstrap
   
-  
+  Belajar Rest API
