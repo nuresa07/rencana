@@ -1,0 +1,7 @@
+Belajar DevOps
+ Infrastructure(options):
+  - Nginx,
+  - Azure, &
+  - AWS
+  
+  
