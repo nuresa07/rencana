@@ -1,0 +1,10 @@
+Belajar DevOps
+ => Infrastructure(options):
+    - Nginx,
+    - Azure, &
+    - AWS
+ 
+ => Automation(options):
+    - Chef,
+    - Jenkins
+
