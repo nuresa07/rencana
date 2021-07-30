@@ -11,4 +11,8 @@ Belajar DevOps
  => Virtualization(options):
     - Docker,
     - Kubernetes, &
-    - MVWare
+
+ => NoSQL:
+    - MongoDB
+ => RDBMS:
+    - MySQL
