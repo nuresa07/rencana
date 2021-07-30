@@ -4,7 +4,11 @@ Belajar DevOps
     - Azure, &
     - AWS
  
- => Automation(options):
+ => Automation(options)    :
     - Chef,
     - Jenkins
 
+ => Virtualization(options):
+    - Docker,
+    - Kubernetes, &
+    - MVWare
