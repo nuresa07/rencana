@@ -12,3 +12,6 @@ Belajar DevOps
     - Docker,
     - Kubernetes, &
     - MVWare
+ => RDBMS
+    - MySQL
+    - SQLite
