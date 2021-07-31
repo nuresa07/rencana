@@ -14,4 +14,3 @@ Belajar DevOps
     - MVWare
  => RDBMS
     - MySQL
-    - SQLite
